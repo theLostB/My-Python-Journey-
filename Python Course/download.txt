@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Source Code</title>
+</head>
+<body>
+
+    <h1>redirecting...</h1>
+   
+    <script>
+        let userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+        if(userTimeZone == 'Asia/Kolkata' || userTimeZone == 'Asia/Calcutta'){
+            window.location.replace("https://topmate.io/greatstack/714157");
+        }
+        else{
+            window.location.replace("https://www.buymeacoffee.com/easytutorials/e/174076");
+        }
+
+     </script>
+</body>
+</html>
