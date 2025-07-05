@@ -34,7 +34,7 @@
 - ✅ Web Scraping (BeautifulSoup, Requests)  
 - ✅ API Integration  
 - ✅ Projects (Mini apps, tools)  
-- 🔄 GUI (Tkinter, PyQt) – More Comming In Progress  
+- 🔄 GUI (Tkinter, PyQt) – More Coming Soon...  
 - 🔜 Web Development with Python (Coming soon...)
 
 ---
